@@ -18,7 +18,7 @@ Currently tested under Windows with Python 2.7 and 3.9 and in Linux with Python 
 Please note that there are submodules in the repository that need initialisation. So, to correctly clone the Smorphi-Blockly repository:
 
 ```
-<!-- git clone https://github.com/roarLab/Smorphi-Blockly.git -->
+
 git clone https://github.com/WefaaRobotics/Smorphi_Blockly_V1.git
 
 ```
